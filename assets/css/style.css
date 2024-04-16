@@ -100,6 +100,7 @@ display: block;
 main {
   background-color: lightblue;
   flex: 1 0 auto;
+  margin-top: 47px;
   /*make main element take up any surplus space and push footer down*/
 }
 
